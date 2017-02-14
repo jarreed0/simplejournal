@@ -1,0 +1,407 @@
+.entry[mood] {
+  background-color: white;
+}
+
+.entry[mood="0"] {
+  background-color: #FF0000;
+}
+
+.entry[mood="1"] {
+  background-color: #FF0700;
+}
+
+.entry[mood="2"] {
+  background-color: #FF0E00;
+}
+
+.entry[mood="3"] {
+  background-color: #FF1600;
+}
+
+.entry[mood="4"] {
+  background-color: #FF1D00;
+}
+
+.entry[mood="5"] {
+  background-color: #FF2500;
+}
+
+.entry[mood="6"] {
+  background-color: #FF2C00;
+}
+
+.entry[mood="7"] {
+  background-color: #FF3400;
+}
+
+.entry[mood="8"] {
+  background-color: #FF3B00;
+}
+
+.entry[mood="9"] {
+  background-color: #FF4300;
+}
+
+.entry[mood="10"] {
+  background-color: #FF4A00;
+}
+
+.entry[mood="11"] {
+  background-color: #FF5200;
+}
+
+.entry[mood="12"] {
+  background-color: #FF5900;
+}
+
+.entry[mood="13"] {
+  background-color: #FF6100;
+}
+
+.entry[mood="14"] {
+  background-color: #FF6800;
+}
+
+.entry[mood="15"] {
+  background-color: #FF7000;
+}
+
+.entry[mood="16"] {
+  background-color: #FF7700;
+}
+
+.entry[mood="17"] {
+  background-color: #FF7F00;
+}
+
+.entry[mood="18"] {
+  background-color: #FF8600;
+}
+
+.entry[mood="19"] {
+  background-color: #FF8E00;
+}
+
+.entry[mood="20"] {
+  background-color: #FF9500;
+}
+
+.entry[mood="21"] {
+  background-color: #FF9D00;
+}
+
+.entry[mood="22"] {
+  background-color: #FFA400;
+}
+
+.entry[mood="23"] {
+  background-color: #FFAC00;
+}
+
+.entry[mood="24"] {
+  background-color: #FFB300;
+}
+
+.entry[mood="25"] {
+  background-color: #FFBB00;
+}
+
+.entry[mood="26"] {
+  background-color: #FFC200;
+}
+
+.entry[mood="27"] {
+  background-color: #FFCA00;
+}
+
+.entry[mood="28"] {
+  background-color: #FFD100;
+}
+
+.entry[mood="29"] {
+  background-color: #FFD900;
+}
+
+.entry[mood="30"] {
+  background-color: #FFE000;
+}
+
+.entry[mood="31"] {
+  background-color: #FFE800;
+}
+
+.entry[mood="32"] {
+  background-color: #FFEF00;
+}
+
+.entry[mood="33"] {
+  background-color: #FFF700;
+}
+
+.entry[mood="34"] {
+  background-color: #FFFF00;
+}
+
+.entry[mood="35"] {
+  background-color: #F0FF00;
+}
+
+.entry[mood="36"] {
+  background-color: #E1FF00;
+}
+
+.entry[mood="37"] {
+  background-color: #D2FF00;
+}
+
+.entry[mood="38"] {
+  background-color: #C3FF00;
+}
+
+.entry[mood="39"] {
+  background-color: #C3FF00;
+}
+
+.entry[mood="40"] {
+  background-color: #B3FF00;
+}
+
+.entry[mood="41"] {
+  background-color: #A4FF00;
+}
+
+.entry[mood="42"] {
+  background-color: #96FF00;
+}
+
+.entry[mood="43"] {
+  background-color: #87FF00;
+}
+
+.entry[mood="44"] {
+  background-color: #78FF00;
+}
+
+.entry[mood="45"] {
+  background-color: #69FF00;
+}
+
+.entry[mood="46"] {
+  background-color: #59FF00;
+}
+
+.entry[mood="47"] {
+  background-color: #4AFF00;
+}
+
+.entry[mood="48"] {
+  background-color: #3CFF00;
+}
+
+.entry[mood="49"] {
+  background-color: #2DFF00;
+}
+
+.entry[mood="50"] {
+  background-color: #1EFF00;
+}
+
+.entry[mood="51"] {
+  background-color: #0FFF00;
+}
+
+.entry[mood="52"] {
+  background-color: #00FF00;
+}
+
+.entry[mood="53"] {
+  background-color: #00F00F;
+}
+
+.entry[mood="54"] {
+  background-color: #00E11E;
+}
+
+.entry[mood="55"] {
+  background-color: #00D22D;
+}
+
+.entry[mood="56"] {
+  background-color: #00C33C;
+}
+
+.entry[mood="57"] {
+  background-color: #00B34B;
+}
+
+.entry[mood="58"] {
+  background-color: #00A45A;
+}
+
+.entry[mood="59"] {
+  background-color: #009669;
+}
+
+.entry[mood="60"] {
+  background-color: #008778;
+}
+
+.entry[mood="61"] {
+  background-color: #007887;
+}
+
+.entry[mood="62"] {
+  background-color: #006996;
+}
+
+.entry[mood="63"] {
+  background-color: #0059A5;
+}
+
+.entry[mood="64"] {
+  background-color: #004AB4;
+}
+
+.entry[mood="65"] {
+  background-color: #003CC3;
+}
+
+.entry[mood="66"] {
+  background-color: #002DD2;
+}
+
+.entry[mood="67"] {
+  background-color: #001EE1;
+}
+
+.entry[mood="68"] {
+  background-color: #000FF0;
+}
+
+.entry[mood="69"] {
+  background-color: #0000FF;
+}
+
+.entry[mood="70"] {
+  background-color: #0400F7;
+}
+
+.entry[mood="71"] {
+  background-color: #0900EF;
+}
+
+.entry[mood="72"] {
+  background-color: #0E00E7;
+}
+
+.entry[mood="73"] {
+  background-color: #1200DF;
+}
+
+.entry[mood="74"] {
+  background-color: #1700D7;
+}
+
+.entry[mood="75"] {
+  background-color: #1C00D0;
+}
+
+.entry[mood="76"] {
+  background-color: #2000C8;
+}
+
+.entry[mood="77"] {
+  background-color: #2500C0;
+}
+
+.entry[mood="78"] {
+  background-color: #2A00B8;
+}
+
+.entry[mood="79"] {
+  background-color: #2E00B0;
+}
+
+.entry[mood="80"] {
+  background-color: #3300A9;
+}
+
+.entry[mood="81"] {
+  background-color: #3800A1;
+}
+
+.entry[mood="82"] {
+  background-color: #3C0099;
+}
+
+.entry[mood="83"] {
+  background-color: #410091;
+}
+
+.entry[mood="84"] {
+  background-color: #460089;
+}
+
+.entry[mood="85"] {
+  background-color: #4B0082;
+}
+
+.entry[mood="86"] {
+  background-color: #4F0087;
+}
+
+.entry[mood="87"] {
+  background-color: #54008C;
+}
+
+.entry[mood="88"] {
+  background-color: #580091;
+}
+
+.entry[mood="89"] {
+  background-color: #5D0096;
+}
+
+.entry[mood="90"] {
+  background-color: #61009B;
+}
+
+.entry[mood="91"] {
+  background-color: #6600A0;
+}
+
+.entry[mood="92"] {
+  background-color: #6A00A5;
+}
+
+.entry[mood="93"] {
+  background-color: #6F00AA;
+}
+
+.entry[mood="94"] {
+  background-color: #7400AF;
+}
+
+.entry[mood="95"] {
+  background-color: #7800B4;
+}
+
+.entry[mood="96"] {
+  background-color: #7D00B9;
+}
+
+.entry[mood="97"] {
+  background-color: #8100BE;
+}
+
+.entry[mood="98"] {
+  background-color: #8600C3;
+}
+
+.entry[mood="99"] {
+  background-color: #8A00C8;
+}
+
+.entry[mood="100"] {
+  background-color: #9400D3;
+}

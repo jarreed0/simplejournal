@@ -12,15 +12,19 @@ echo -n "TODO: "
 read td;
 echo -n "How was your day? (from 1 - 100, 10 being the highest): "
 read md
-head -n -1 log.xml > temp.txt
-cat temp.txt > log.xml
-echo "<entry>" >> log.xml
-echo "   <year>$yr</year>" >> log.xml
-echo "   <month>$mn</month>" >> log.xml
-echo "   <day>$dy</day>" >> log.xml
-echo "   <desc>$entry</desc>" >> log.xml
-echo "   <todo>$td</todo>" >> log.xml
-echo "   <mood>$md</mood>" >> log.xml
-echo "</entry>" >> log.xml
-echo " " >> log.xml
-echo "</journal>" >> log.xml
+head -n -5 log.html > temp.txt
+cat temp.txt > log.html
+echo "<div class="entry" mood="$md">" >> log.html
+echo "   <span id="year">$yr</span>" >> log.html
+echo "   <span id="month">$mn</span>" >> log.html
+echo "   <span id="day">$dy</span>" >> log.html
+echo "   <span id="desc">$entry</span>" >> log.html
+echo "   <span id="todo">$td</span>" >> log.html
+echo "   <span id="time">`date`</span>" >> log.html
+echo "</div><p>" >> log.html
+echo " " >> log.html
+echo "</body>" >> log.html
+echo " " >> log.html
+echo "<footer>" >> log.html
+echo "</footer>" >> log.html
+echo "</html>" >> log.html

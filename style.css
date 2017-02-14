@@ -1,0 +1,76 @@
+head {
+
+}
+
+body {
+  background-color: darkgray;
+}
+
+footer {
+
+}
+
+.entry {
+  border-style: solid;
+  border-width: 2px;
+  border-left-width: 5px;
+  max-width: 1270px;
+  margin-left: 22px;
+  padding-top: 14px;
+  padding-right: 4px;
+  padding-bottom: 14px;
+  padding-left: 11.5px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border-color: gray;
+  border-left-color: black;
+}
+
+#year {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#month {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#month:before {
+  content: "- ";
+}
+
+#day:before {
+  content: "- ";
+}
+
+#day {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#desc {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 30px;
+  margin: 30px;
+}
+
+#todo {
+  font-family: "Courier New", monospace;
+  font-weight: bold;
+  display: block;
+  padding: 1.5em;
+}
+
+#todo:before {
+  content: "TODO: ";
+}
+
+#time {
+  font-family: "Garamond", monospace;
+  font-variant: small-caps;
+}
